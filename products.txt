@@ -1,0 +1,4 @@
+name,amazon_url,flipkart_url
+Samsung Galaxy F15 5G,https://www.amazon.in/Samsung-Galaxy-Groovy-Violet-Storage/dp/B0CY9PHSZJ,https://www.flipkart.com/samsung-galaxy-f15-5g-groovy-violet-128-gb/p/itmd0aaf528709de
+iPhone 15,https://www.amazon.in/Apple-iPhone-15-128-GB/dp/B0CHX1W1XY,
+OnePlus 12,,https://www.flipkart.com/oneplus-12-flowy-emerald-256-gb/p/itm123456789

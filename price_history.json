@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Samsung Galaxy F15 5G",
+    "timestamp": "2025-06-11 21:27:05",
+    "amazon": {
+      "price": "Price not found",
+      "price_num": null
+    },
+    "flipkart": {
+      "price": "Price not found",
+      "price_num": null
+    }
+  },
+  [
+    {
+      "timestamp": "2025-06-11T21:40:38.806820",
+      "product_name": "Samsung Galaxy F15 5G",
+      "prices": {
+        "amazon": {
+          "price_text": "₹11,075.",
+          "price_numeric": 11075.0
+        },
+        "flipkart": {
+          "price_text": "₹12,499",
+          "price_numeric": 12499.0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-06-11T21:40:53.894987",
+      "product_name": "iPhone 15",
+      "prices": {
+        "amazon": {
+          "price_text": "₹59,300.",
+          "price_numeric": 59300.0
+        }
+      }
+    }
+  ],
+  [
+    {
+      "timestamp": "2025-06-11T21:45:29.297541",
+      "product_name": "Samsung Galaxy F15 5G",
+      "prices": {
+        "amazon": {
+          "price_text": "₹11,075.",
+          "price_numeric": 11075.0
+        },
+        "flipkart": {
+          "price_text": "₹12,499",
+          "price_numeric": 12499.0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-06-11T21:45:41.674421",
+      "product_name": "iPhone 15",
+      "prices": {
+        "amazon": {
+          "price_text": "₹59,300.",
+          "price_numeric": 59300.0
+        }
+      }
+    }
+  ]
+]
